@@ -1,0 +1,5 @@
+The file 'doublePendulum.py' contains all methods necessary for the simulation.
+The file 'pendulumsimulations.py' contains examples of how to use the methods in doublePendulum.py,
+and files 'chaos.py' and 'chaos2.py' contain the code used in the visualization of sensitivity to
+initial conditions (they have been modified by lowering the number of pendulum simulations in order
+to make the excecution time shorter. Also lines used to save images have been commented). 
